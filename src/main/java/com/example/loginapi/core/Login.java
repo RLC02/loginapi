@@ -1,4 +1,4 @@
-package com.example.loginapi.dominio;
+package com.example.loginapi.core;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
