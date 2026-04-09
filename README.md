@@ -12,5 +12,3 @@ Projeto de de Login desenvolvido em Java com Spring Boot, utilizando Clean Archi
 *   Java 17
 *   Spring Boot 3
 *   MongoDB
-*   Lombok
-*   JUnit
