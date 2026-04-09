@@ -1,6 +1,6 @@
-# Login API
+# Login 
 
-Projeto de API de Login desenvolvido em Java com Spring Boot, utilizando Clean Architecture.
+Projeto de de Login desenvolvido em Java com Spring Boot, utilizando Clean Architecture.
 
 ## Estrutura de Módulos
 
